@@ -5,10 +5,10 @@ A console-based Java application to manage student records (add, view, search, u
 ## Team
 | Name | Roll No. | Contribution |
 |------|----------|--------------|
-| (Chirag Sharma) |250160203050 | Student class |
-| (Nikhil Yadav) | | StudentManager: add, search, delete |
-| (Aryan sah) | | Sorting, topper, report |
-| (Annant gupta) | | Main menu, input validation, documentation |
+| Chirag Sharma |250160203014 | Student class |
+| Nikhil Yadav |250160203050 | StudentManager: add, search, delete |
+| Aryan sah |250160203008 | Sorting, topper, report |
+| Annant gupta |250160203007 | Main menu, input validation, documentation |
 
 ## Features
 - Add, view, search (by ID or name), update marks, delete students
